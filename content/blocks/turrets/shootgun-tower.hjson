@@ -29,7 +29,7 @@ ammoTypes: {
     }
 }
 requirements: [
-    tin/50
+    tin/75
     tower-point/25
 ]
 category: turret
