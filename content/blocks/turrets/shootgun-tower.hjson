@@ -11,7 +11,7 @@ health: 400
 AmmoPerShot: 3
 shootSound: shootBig
 shootShake: 1
-inaccuracy: 2
+inaccuracy: 45
 outlineColor: 000000
 
 shoot: {
