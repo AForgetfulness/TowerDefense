@@ -11,12 +11,12 @@ health: 400
 AmmoPerShot: 3
 shootSound: shootBig
 shootShake: 1
-spread: 4
+spread: 45
 outlineColor: 000000
 
 shoot: {
     shots: 3
-    spread: 4
+    spread: 45
     shotDelay: 0
 }
 
