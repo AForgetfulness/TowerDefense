@@ -11,18 +11,18 @@ health: 400
 AmmoPerShot: 3
 shootSound: shootBig
 shootShake: 1
-inaccuracy: 45
+inaccuracy: 30
 outlineColor: 000000
 
 shoot: {
-    shots: 3
+    shots: 10
     spread: 4
     shotDelay: 0
 }
 
 ammoTypes: {
     tin: {
-        damage: 2
+        damage: 1
         speed: 10
         height: 10
         width: 5
