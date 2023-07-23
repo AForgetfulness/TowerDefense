@@ -1,0 +1,35 @@
+type: ItemTurret
+reload: 50
+shootCone: 20
+rotateSpeed: 15
+targetGround: true
+targetAir: false
+range: 60
+recoil: 1.3
+size: 2
+health: 400
+AmmoPerShot: 3
+shootSound: shootBig
+shootShake: 1
+outlineColor: 000000
+
+shoot: {
+    shots: 3
+    spread: 5
+    shotDelay: 0
+}
+
+ammoTypes: {
+    tin: {
+        damage: 2
+        speed: 10
+        height: 10
+        width: 5
+        lifetime: 20
+    }
+}
+requirements: [
+    tin/50
+    tower-point/25
+]
+category: turret
