@@ -5,4 +5,6 @@ requirements: [
   tin/50
   energy-point: 30
 ]
+emptyLightColor: 2b2b2b
+fullLightColor: 11c4f5
 category: power
