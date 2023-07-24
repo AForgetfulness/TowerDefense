@@ -1,44 +1,39 @@
 type: ItemTurret
-reload: 8
-rotateSpeed: 15
-targetGround: true
-targetAir: false
-range: 120
-recoil: 1
 size: 2
 health: 400
+range: 112
+reload: 7
+recoil: 1
+targetAir: false
 shootSound: flame
-
 ammoTypes: {
-    tower-point: {
-        damage: 20
-        speed: 6
-        pierce: true
-        pierceBuilding: true
-        ammoMultiplier: 8
-        status: burning
-        makeFire: true
-        despawnEffect: none
-
-        height: 0.01
-        width: 0.01
-        smokeEffect: {
-          type: ParticleEffect
-          particles: 25
-          lenght: 140
-          lifetime: 36
-          interp: circleOut
-          cone: 3
-          colorFrom: ffdd55
-          colorTo: db401c
-          sizeFrom: 4
-          sizeTo: 0.6
-        }
-        lifetime: 18
+  coal: {
+    damage: 24
+    speed: 6
+    pierce: true
+    pierceBuilding: true
+    ammoMultiplier: 5
+    status: burning
+    makeFire: true
+    lifetime: 18
+    despawnEffect: none
+    width: 0.01
+    height: 0.01
+    smokeEffect: {
+      type: ParticleEffect
+      particles: 25
+      length: 140
+      lifetime: 36
+      interp: circleOut
+      cone: 3
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
     }
+  }
 }
-requirements: [
-    tin/350
-    tower-point/150
-]
 category: turret
+requirements: [
+  tin/350
+  tower-point/150
