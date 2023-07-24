@@ -1,5 +1,5 @@
 type: ItemTurret
-reload: 500
+reload: 350
 shootCone: 20
 rotateSpeed: 15
 targetGround: true
@@ -21,7 +21,7 @@ shoot: {
 
 ammoTypes: {
     tin: {
-        damage: 60
+        damage: 120
         speed: 30
         height: 25
         width: 15
