@@ -10,5 +10,5 @@ requirements: [
  tin/12
  energy-point/2
  ]
-range: 3
+range: 6
 category: power
