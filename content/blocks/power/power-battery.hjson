@@ -1,0 +1,8 @@
+type: Battery
+health: 100
+size: 1
+requirements: [
+  tin/50
+  energy-point: 30
+]
+category: power
