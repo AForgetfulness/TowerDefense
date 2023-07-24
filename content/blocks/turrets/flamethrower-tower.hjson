@@ -15,7 +15,7 @@ ammoTypes: {
         speed: 6
         pierce: true
         pierceBuilding: true
-        ammoMultiplier: 5
+        ammoMultiplier: 8
         status: burning
         makeFire: true
         despawnEffect: none
@@ -25,14 +25,14 @@ ammoTypes: {
         smokeEffect: {
           type: ParticleEffect
           particles: 25
-          lenght: 120
+          lenght: 140
           lifetime: 36
           interp: circleOut
           cone: 3
-            colorFrom: ffdd55
-            colorTo: db401c
-            sizeFrom: 6
-            sizeTo: 0.6
+          colorFrom: ffdd55
+          colorTo: db401c
+          sizeFrom: 4
+          sizeTo: 0.6
         }
         lifetime: 18
     }
