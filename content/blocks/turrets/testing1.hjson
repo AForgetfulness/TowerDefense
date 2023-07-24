@@ -11,15 +11,29 @@ health: 400
 shootSound: spark
 shootShake: 1
 outlineColor: 1f1f1f
-shootType: {
+bulletType: {
   type: LightingBulletType
   lightingLenght: 20
+  lightingLenghtRand: 8
   damage: 4
+  lightingType: {
+    width: 9
+    height: 9
+    speed: 0
+    damage: 4
+    hitEffect: hitBulletColor
+    despawnEffect: hitBulletColor
+    lifetime: 1
+    status: shoked
+  }
+  statusDuration: 50
 }
 shoot: {
-    shots: 5
-    spread: 0
-    shotDelay: 3
+  type: ShootAlternate
+  spread: 2
+  shots: 4
+  shotsDelay: 0
+  barrels: 4
 }
 
 consumes: {
