@@ -10,10 +10,5 @@ requirements: [
  tin/12
  energy-point/2
  ]
-
-laserColor1: ffffff
-laserColor2: 218ba3
-
-
 range: 3
 category: power
