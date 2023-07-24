@@ -11,8 +11,8 @@ requirements: [
  energy-point/2
  ]
 
-laserColor1: 00fbff
-laserColor2: 00fbff
+laserColor1: 00171a
+laserColor2: 00171a
 
 
 range: 3
