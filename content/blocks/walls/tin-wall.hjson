@@ -1,0 +1,7 @@
+type: Wall
+health: 200
+category: defense
+requirements: [
+  tin/6
+  defence-point/2
+]
