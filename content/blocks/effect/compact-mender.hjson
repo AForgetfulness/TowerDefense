@@ -7,8 +7,9 @@ hasLiquids: false
 hasPower: true
 consumes: {
 	power: 1
-	items: {
-		energy-point/5
+	item: {
+		item: energy-point
+		count: 5
   	}
 }
 range: 50
