@@ -1,17 +1,17 @@
 type: ItemTurret
-reload: 1
+reload: 0.5
 shootCone: 20
 rotateSpeed: 5
 targetGround: true
 targetAir: false
-range: 100
+range: 125
 recoil: 1.3
 size: 2
 health: 400
 AmmoPerShot: 1
 shootSound: shootBig
 shootShake: 1
-inaccuracy: 30
+inaccuracy: 25
 outlineColor: 1f1f1f
 
 shoot: {
@@ -26,7 +26,7 @@ ammoTypes: {
         speed: 10
         height: 10
         width: 5
-        lifetime: 20
+        lifetime: 15
     }
 }
 requirements: [
