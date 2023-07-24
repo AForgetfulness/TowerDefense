@@ -1,6 +1,8 @@
 type: battery
 health: 100
 size: 1
+baseExplosiveness: 2
+hasPower: true
 outputsPower: true
 consumesPower: true
 hasItems: false
@@ -9,6 +11,10 @@ requirements: [
   tin/50
   energy-point/30
 ]
+consumes: {
+    powerBuffered: 1000
+}
+
 emptyLightColor: 2b2b2b
 fullLightColor: 11c4f5
 category: power
