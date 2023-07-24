@@ -1,3 +1,4 @@
+type: PowerTurret
 health: 300
 size: 2
 requirements: [
