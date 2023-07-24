@@ -11,7 +11,7 @@ health: 400
 AmmoPerShot: 1
 shootSound: shootBig
 shootShake: 1
-outlineColor: 000000
+outlineColor: 1f1f1f
 
 shoot: {
     shots: 1
