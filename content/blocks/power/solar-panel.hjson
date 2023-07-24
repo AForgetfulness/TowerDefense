@@ -1,0 +1,9 @@
+type: SolarGenerator
+powerProduction: 0.5
+size: 1
+health: 50
+requirements: [
+    tin/50
+    energy-point/20
+]
+category: power
