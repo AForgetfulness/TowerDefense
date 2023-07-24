@@ -1,5 +1,5 @@
 type: PowerTurret
-health: 300
+health: 400
 size: 2
 requirements: [
   tin/350
@@ -31,7 +31,7 @@ reload: 20
 shoot: {
   type: ShootAlternate
   spread: 2.75
-  shots: 12
+  shots: 5
   shotDelay: 0
   barrels: 4
 }
