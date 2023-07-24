@@ -1,5 +1,5 @@
 type: ItemTurret
-reload: 350
+reload: 150
 shootCone: 20
 rotateSpeed: 15
 targetGround: true
@@ -21,11 +21,11 @@ shoot: {
 
 ammoTypes: {
     tin: {
-        damage: 120
+        damage: 60
         speed: 30
         height: 25
         width: 15
-        lifetime: 40
+        lifetime: 20
     }
 }
 requirements: [
