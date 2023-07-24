@@ -6,11 +6,11 @@ requirements: [
   tower-point/100
   energy-point/100
 ]
-range: 100
+range: 80
 shootType: {
   type: LightningBulletType
   damage: 21
-  lightningLength: 10
+  lightningLength: 7
   lightningLengthRand: 2
   lightningColor: 11c4f5
   lightningType: {
