@@ -12,7 +12,7 @@ requirements: [
  ]
 
 laserColor1: ffffffff	
-laserColor2: 218ba3
+laserColor2: 00fbff
 
 
 range: 3
