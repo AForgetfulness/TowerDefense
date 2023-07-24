@@ -1,0 +1,21 @@
+category: effect
+type: MendProjector
+health: 100
+
+hasItems: true
+hasLiquids: false
+hasPower: true
+consumes: {
+ power: 1
+ items: {
+  energy-point/5
+  }
+ }
+range: 50
+healPercent: 45
+reload: 125
+requirements: [
+ tin/200
+ defence-point/150
+ energy-point/75
+ ]
