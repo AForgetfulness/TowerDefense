@@ -9,7 +9,7 @@ requirements: [
 range: 130
 shootType: {
   type: LightningBulletType
-  damage: 7
+  damage: 14
   lightningLength: 14
   lightningLengthRand: 2
   lightningColor: 11c4f5
