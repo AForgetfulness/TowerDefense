@@ -1,47 +1,45 @@
-type: PowerTurret
-reload: 5
-shootCone: 20
-rotateSpeed: 15
-targetGround: true
-targetAir: false
-range: 120
-recoil: 1.3
+health: 300
 size: 2
-health: 400
-shootSound: spark
-shootShake: 1
-outlineColor: 1f1f1f
+requirements: [
+  tin/350
+  tower-point/100
+  energy-point/100
+]
+range: 200
 shootType: {
-  type: LightingBulletType
-  lightingLenght: 20
-  lightingLenghtRand: 8
-  damage: 4
-  lightingType: {
+  type: LightningBulletType
+  damage: 34
+  lightningLength: 34
+  lightningLengthRand: 8
+  lightningColor: 11c4f5
+  lightningType: {
     width: 9
     height: 9
     speed: 0
-    damage: 4
+    damage: 17
     hitEffect: hitBulletColor
     despawnEffect: hitBulletColor
     lifetime: 1
-    status: shoked
-  }
-  statusDuration: 50
+    backColor: 11c4f5
+    frontColor: ffffff
+    status: shocked
+    }
+  statusDuration: 200
 }
+reload: 20
 shoot: {
   type: ShootAlternate
-  spread: 2
-  shots: 4
-  shotsDelay: 0
+  spread: 2.75
+  shots: 12
+  shotDelay: 0
   barrels: 4
 }
-
+shootCone: 60
+rotateSpeed: 7
 consumes: {
-  power: 2
+power: 4
+coolant: {}
 }
-requirements: [
-    tin/350
-    tower-point/100
-    energy-point/100
-]
+recoil: 3
+shootSound: spark
 category: turret
