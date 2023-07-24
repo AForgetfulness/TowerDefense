@@ -4,7 +4,7 @@ shootCone: 20
 rotateSpeed: 15
 targetGround: true
 targetAir: false
-range: 90
+range: 120
 recoil: 1.3
 size: 2
 health: 400
@@ -21,11 +21,11 @@ shoot: {
 
 ammoTypes: {
     tin: {
-        damage: 12
+        damage: 18
         speed: 10
         height: 10
         width: 5
-        lifetime: 12
+        lifetime: 13
     }
 }
 requirements: [
