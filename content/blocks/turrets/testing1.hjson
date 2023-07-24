@@ -11,7 +11,7 @@ health: 400
 shootSound: spark
 shootShake: 1
 outlineColor: 1f1f1f
-bulletType: {
+shootType: {
   type: LightingBulletType
   lightingLenght: 20
   lightingLenghtRand: 8
