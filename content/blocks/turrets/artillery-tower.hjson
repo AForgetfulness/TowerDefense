@@ -1,5 +1,5 @@
 type: ItemTurret
-reload: 100
+reload: 60
 shootCone: 20
 rotateSpeed: 15
 targetGround: true
