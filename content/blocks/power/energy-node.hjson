@@ -1,0 +1,19 @@
+type: BeamNode
+  
+hasPower: true
+hasItems: false
+hasLiquids: false
+
+health: 20
+size: 1
+requirements: [
+ tin/12
+ energy-point/2
+ ]
+
+laserColor1: ffffffff	
+laserColor2: 218ba3
+
+
+range: 3
+category: power
