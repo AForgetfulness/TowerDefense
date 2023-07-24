@@ -9,7 +9,7 @@ consumes: {
 	power: 1
 }
 range: 50
-healPercent: 5
+healPercent: 2
 reload: 125
 requirements: [
 	tin/200
