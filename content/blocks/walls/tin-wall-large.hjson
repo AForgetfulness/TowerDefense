@@ -1,0 +1,8 @@
+type: Wall
+health: 800
+size: 2
+category: defense
+requirements: [
+  tin/24
+  defence-point/8
+]
