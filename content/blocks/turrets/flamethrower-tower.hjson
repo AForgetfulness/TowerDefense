@@ -8,7 +8,7 @@ targetAir: false
 shootSound: flame
 ammoTypes: {
   coal: {
-    damage: 6
+    damage: 12
     speed: 6
     pierce: true
     pierceBuilding: true
