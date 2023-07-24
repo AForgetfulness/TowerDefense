@@ -22,7 +22,7 @@ shoot: {
 
 ammoTypes: {
     tin: {
-        damage: 4
+        damage: 8
         speed: 10
         height: 10
         width: 5
