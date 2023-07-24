@@ -10,8 +10,8 @@ range: 200
 shootType: {
   type: LightningBulletType
   damage: 34
-  lightningLength: 34
-  lightningLengthRand: 8
+  lightningLength: 10
+  lightningLengthRand: 2
   lightningColor: 11c4f5
   lightningType: {
     width: 9
