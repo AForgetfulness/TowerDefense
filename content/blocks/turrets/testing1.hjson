@@ -27,7 +27,7 @@ shootType: {
     }
   statusDuration: 200
 }
-reload: 20
+reload: 50
 shoot: {
   type: ShootAlternate
   spread: 2.75
