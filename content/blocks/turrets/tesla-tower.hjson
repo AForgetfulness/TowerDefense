@@ -9,7 +9,7 @@ requirements: [
 range: 90
 shootType: {
   type: LightningBulletType
-  damage: 21
+  damage: 42
   lightningLength: 10
   lightningLengthRand: 1
   lightningColor: 11c4f5
@@ -31,12 +31,12 @@ reload: 20
 shoot: {
   type: ShootAlternate
   spread: 2.75
-  shots: 5
+  shots: 3
   shotDelay: 0
   barrels: 4
 }
 shootCone: 60
-rotateSpeed: 3
+rotateSpeed: 2
 consumes: {
 power: 4
 coolant: {}
