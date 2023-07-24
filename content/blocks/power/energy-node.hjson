@@ -11,7 +11,7 @@ requirements: [
  energy-point/2
  ]
 
-laserColor1: ffffffff	
+laserColor1: 00fbff
 laserColor2: 00fbff
 
 
