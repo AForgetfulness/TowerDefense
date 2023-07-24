@@ -25,9 +25,9 @@ shootType: {
     frontColor: ffffff
     status: shocked
     }
-  statusDuration: 200
+  statusDuration: 20
 }
-reload: 35
+reload: 20
 shoot: {
   type: ShootAlternate
   spread: 2.75
