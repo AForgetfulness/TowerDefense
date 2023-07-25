@@ -2,9 +2,9 @@ type: PowerTurret
 health: 400
 size: 2
 requirements: [
-  tin/350
-  tower-point/100
-  energy-point/100
+  f1-tin/350
+  f2-tower-point/100
+  f4-energy-point/100
 ]
 range: 70
 shootType: {
