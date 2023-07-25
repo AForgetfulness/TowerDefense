@@ -1,0 +1,16 @@
+type: StackConveyor
+
+health: 30
+underBullets: true
+solid: false
+
+size: 1
+requirements: [
+ f1-tin/2
+ ]
+
+itemCapacity: 10
+outputRouter: false
+
+speed: 0.08
+category: distribution
