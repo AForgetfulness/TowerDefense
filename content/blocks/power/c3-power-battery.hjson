@@ -8,8 +8,8 @@ consumesPower: true
 hasItems: false
 canOverdrifff: false
 requirements: [
-  tin/50
-  energy-point/30
+  f1-tin/50
+  f4-energy-point/30
 ]
 consumes: {
     powerBuffered: 1000
