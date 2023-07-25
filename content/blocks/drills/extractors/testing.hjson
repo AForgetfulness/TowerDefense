@@ -1,11 +1,16 @@
 type: Separator
 size: 2
-craftTime: 20
+craftTime: 50
 hasItems: true
 hasLiquids: false
 hasPower: true
 consumes: {
   power: 4
+  items: {
+    items: [
+    tin/1
+    ]
+  }
 }
 requirements: [
   tin/500
