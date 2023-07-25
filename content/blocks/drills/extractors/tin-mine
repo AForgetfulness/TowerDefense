@@ -1,0 +1,14 @@
+type: Separator
+size: 2
+craftTime: 50
+hasItems: true
+hasLiquids: false
+consumes: {
+}
+requirements: [
+  tin/50
+]
+category: crafting
+results: [
+  tin/1
+]
