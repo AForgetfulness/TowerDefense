@@ -1,7 +1,7 @@
 type: Separator
 health: 1200
 size: 2
-craftTime: 50
+craftTime: 25
 hasItems: true
 hasLiquids: false
 hasPower: true
@@ -9,7 +9,7 @@ consumes: {
   power: 4
   items: {
     items: [
-    f1-tin/5
+    f1-tin/2
     ]
   }
 }
@@ -19,6 +19,7 @@ requirements: [
   f3-defence-point/100
   f4-energy-point/100
   f5-unit-point/100
+  f6-research-rune/5
 ]
 category: production
 results: [
