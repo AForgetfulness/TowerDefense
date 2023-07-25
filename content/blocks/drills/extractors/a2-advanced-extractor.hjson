@@ -8,21 +8,21 @@ consumes: {
   power: 4
   items: {
     items: [
-    tin/5
+    f1-tin/5
     ]
   }
 }
 requirements: [
-  tin/500
-  tower-point/100
-  defence-point/100
-  energy-point/100
-  unit-point/100
+  f1-tin/500
+  f2-tower-point/100
+  f3-defence-point/100
+  f4-energy-point/100
+  f5-unit-point/100
 ]
 category: production
 results: [
-  tower-point/1
-  defence-point/1
-  energy-point/1
-  unit-point/1
+  f2-tower-point/1
+  f3-defence-point/1
+  f4-energy-point/1
+  f5-unit-point/1
 ]
