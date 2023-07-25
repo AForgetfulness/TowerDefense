@@ -1,0 +1,29 @@
+type: Separator
+size: 2
+craftTime: 27000
+hasItems: true
+hasLiquids: false
+hasPower: false
+itemCapacity: 100
+consumes: {
+  items: {
+    items: [
+      f1-tin/100
+      f11-tin-ingot/25
+      f6-research-rune/4
+      
+    ]
+  }
+}
+requirements: [
+  f1-tin-ingot/500
+  f2-tower-point/350
+  f3-defence-point/350
+  f4-energy-point/350
+  f5-unit-point/350
+  f6-research-rune/10
+]
+category: crafting
+results: [
+  f7-advanced-research-rune/1
+]
