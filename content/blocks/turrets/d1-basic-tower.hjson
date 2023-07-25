@@ -27,6 +27,14 @@ ammoTypes: {
         width: 10
         lifetime: 17
     }
+    f11-tin-ingot: {
+        damage: 10
+        speed: 12
+        height: 16
+        width: 11
+        lifetime: 17
+    }
+
 }
 requirements: [
     f1-tin/50
