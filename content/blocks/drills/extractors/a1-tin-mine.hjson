@@ -1,4 +1,5 @@
 type: Separator
+health: 400
 size: 2
 craftTime: 45
 hasItems: true
