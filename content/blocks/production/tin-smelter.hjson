@@ -1,0 +1,22 @@
+type: Separator
+size: 2
+craftTime: 180
+hasItems: true
+hasLiquids: false
+hasPower: false
+itemCapacity: 10
+consumes: {
+  items: {
+    items: [
+      f1-tin/10
+    ]
+  }
+}
+requirements: [
+  f1-tin/200
+  f6-research-point/1
+]
+category: crafting
+results: [
+  f11-tin-ingot/1
+]
