@@ -20,7 +20,7 @@ shoot: {
 }
 
 ammoTypes: {
-    tin: {
+    f1-tin: {
         damage: 6
         speed: 10
         height: 10
@@ -29,7 +29,7 @@ ammoTypes: {
     }
 }
 requirements: [
-    tin/150
-    tower-point/50
+    f1-tin/150
+    f2-tower-point/50
 ]
 category: turret
