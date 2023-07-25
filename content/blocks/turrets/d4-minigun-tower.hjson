@@ -27,9 +27,17 @@ ammoTypes: {
         width: 5
         lifetime: 15
     }
+    f11-tin-ingot: {
+        damage: 10
+        speed: 11
+        height: 11
+        width: 6
+        lifetime: 15
+    }
 }
 requirements: [
     f1-tin/150
+    f11-tin-ingot/10
     f2-tower-point/50
 ]
 category: turret
