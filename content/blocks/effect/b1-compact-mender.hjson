@@ -12,7 +12,7 @@ range: 50
 healPercent: 2
 reload: 125
 requirements: [
-	tin/200
-	defence-point/150
-	energy-point/75
+	f1-tin/200
+	f3-defence-point/150
+	f4-energy-point/75
 ]
