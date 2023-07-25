@@ -8,7 +8,7 @@ consumes: {
   power: 4
   items: {
     items: [
-    tin/1
+    tin/2
     ]
   }
 }
