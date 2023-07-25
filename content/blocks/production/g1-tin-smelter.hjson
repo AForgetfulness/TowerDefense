@@ -17,6 +17,4 @@ requirements: [
   f6-research-rune/1
 ]
 category: crafting
-results: [
-  f11-tin-ingot/2
-]
+outputItem: f11-tin-ingot/2
