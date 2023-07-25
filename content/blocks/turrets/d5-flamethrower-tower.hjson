@@ -35,6 +35,6 @@ ammoTypes: {
 }
 category: turret
 requirements: [
-  tin/350
-  tower-point/150
+  f1-tin/350
+  f2-tower-point/150
 ]
