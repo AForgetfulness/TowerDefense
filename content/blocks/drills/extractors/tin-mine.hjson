@@ -1,6 +1,6 @@
 type: Separator
 size: 2
-craftTime: 50
+craftTime: 45
 hasItems: true
 hasLiquids: false
 consumes: {
@@ -8,7 +8,7 @@ consumes: {
 requirements: [
   tin/50
 ]
-category: crafting
+category: production
 results: [
   tin/1
 ]
