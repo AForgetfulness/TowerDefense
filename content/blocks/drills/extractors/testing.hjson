@@ -19,7 +19,7 @@ requirements: [
   energy-point/100
   unit-point/100
 ]
-category: crafting
+category: production
 results: [
   tower-point/1
   defence-point/1
