@@ -1,4 +1,4 @@
-type: Separator
+type: GenericCrafter
 size: 2
 craftTime: 27000
 hasItems: true
@@ -23,6 +23,4 @@ requirements: [
   f6-research-rune/10
 ]
 category: crafting
-results: [
-  f7-advanced-research-rune/1
-]
+outputItem: f7-advanced-research-rune
