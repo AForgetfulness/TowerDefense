@@ -11,7 +11,7 @@ requirements: [
   tin/500
   tower-point/100
   defence-point/100
-  energy point/100
+  energy-point/100
   unit-point/100
 ]
 category: crafting
