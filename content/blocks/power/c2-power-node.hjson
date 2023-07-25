@@ -7,8 +7,8 @@ hasLiquids: false
 health: 20
 size: 1
 requirements: [
- tin/12
- energy-point/2
+ f1-tin/12
+ f4-energy-point/2
  ]
 range: 6
 category: power
