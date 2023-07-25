@@ -3,10 +3,9 @@ size: 2
 craftTime: 3600
 hasItems: true
 hasLiquids: false
-hasPower: true
+hasPower: false
 itemCapacity: 25
 consumes: {
-  power: 4
   items: {
     items: [
       f1-tin/25
