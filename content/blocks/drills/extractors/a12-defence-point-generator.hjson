@@ -1,0 +1,16 @@
+type: Separator
+health: 400
+size: 2
+craftTime: 120
+hasItems: true
+hasLiquids: false
+consumes: {
+}
+requirements: [
+  f1-tin/100
+  f6-research-rune/1
+]
+category: production
+results: [
+  defence-point/1
+]
