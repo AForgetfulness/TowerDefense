@@ -3,7 +3,7 @@ powerProduction: 0.5
 size: 1
 health: 50
 requirements: [
-    tin/50
-    energy-point/20
+    f1-tin/50
+    f4-energy-point/20
 ]
 category: power
