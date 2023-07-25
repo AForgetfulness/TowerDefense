@@ -6,9 +6,9 @@ hasLiquids: false
 consumes: {
 }
 requirements: [
-  tin/50
+  f1-tin/50
 ]
 category: production
 results: [
-  tin/1
+  f1-tin/1
 ]
