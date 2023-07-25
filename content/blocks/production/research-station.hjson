@@ -1,6 +1,6 @@
 type: Separator
 size: 2
-craftTime: 3600
+craftTime: 18000
 hasItems: true
 hasLiquids: false
 hasPower: false
