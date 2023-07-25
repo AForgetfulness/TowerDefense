@@ -2,6 +2,6 @@ type: Wall
 health: 200
 category: defense
 requirements: [
-  tin/6
-  defence-point/2
+  f1-tin/6
+  f3-defence-point/2
 ]
