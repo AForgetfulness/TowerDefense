@@ -11,12 +11,11 @@ consumes: {
       f1-tin/100
       f11-tin-ingot/25
       f6-research-rune/4
-      
     ]
   }
 }
 requirements: [
-  f1-tin-ingot/500
+  f11-tin-ingot/500
   f2-tower-point/350
   f3-defence-point/350
   f4-energy-point/350
