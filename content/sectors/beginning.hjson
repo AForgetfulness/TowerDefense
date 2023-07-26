@@ -1,6 +1,6 @@
 sector: 0
 planet: anarchy-region
-captureWave: 20
+captureWave: 10
 difficulty: 1
 research: g2-research-station
 alwaysUnlocked: true
