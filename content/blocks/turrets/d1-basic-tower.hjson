@@ -41,3 +41,5 @@ requirements: [
     f2-tower-point/25
 ]
 category: turret
+research: g2-research-station
+alwaysUnlocked: true
