@@ -16,7 +16,7 @@ inaccuracy: 1
 
 shoot: {
     type: ShootSpread
-    shots: 19
+    shots: 20
     spread: 18
     shotDelay: 0
 }
