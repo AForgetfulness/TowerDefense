@@ -18,3 +18,8 @@ consumes: {
 emptyLightColor: 2b2b2b
 fullLightColor: 11c4f5
 category: power
+research: c1-solar-panel
+researchCost: [
+  f4-energy-point/250
+  f6-research-rune/2
+]
