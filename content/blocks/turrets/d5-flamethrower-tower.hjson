@@ -41,6 +41,6 @@ requirements: [
 ]
 research: d3-artillery-tower
 researchCost: [
-  f2-attack-point/750
+  f2-tower-point/750
   f6-research-rune/2
 ]
