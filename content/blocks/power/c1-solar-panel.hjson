@@ -7,3 +7,8 @@ requirements: [
     f4-energy-point/20
 ]
 category: power
+research: g2-research-station
+researchCost: [
+  f4-energy-point/250
+  f6-research-rune/2
+]
