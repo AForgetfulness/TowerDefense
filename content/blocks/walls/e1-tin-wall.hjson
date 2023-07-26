@@ -2,8 +2,7 @@ type: Wall
 health: 200
 category: defense
 requirements: [
-  f1-tin/6
-  f3-defence-point/2
+  f1-copper/10
 ]
 research: core-shard
 researchCost: [
