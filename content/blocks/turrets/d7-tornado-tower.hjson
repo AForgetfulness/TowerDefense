@@ -12,6 +12,7 @@ AmmoPerShot: 5
 shootSound: shootBig
 shootShake: 1
 shootY: 0
+inaccuracy: 1
 
 shoot: {
     type: ShootSpread
