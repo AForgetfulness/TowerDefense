@@ -18,3 +18,8 @@ requirements: [
 ]
 category: crafting
 outputItem: f11-tin-ingot/2
+research: g2-research-station
+researchCost: [
+  f1-tin/350
+  f6-research-rune/1
+]
