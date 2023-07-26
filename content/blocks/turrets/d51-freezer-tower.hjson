@@ -8,8 +8,8 @@ targetAir: false
 shootSound: flame
 hasPower: true
 ammoTypes: {
-  copper: {
-    damage: 1
+  f12-ice: {
+    damage: 2
     speed: 6
     pierce: true
     pierceBuilding: true
