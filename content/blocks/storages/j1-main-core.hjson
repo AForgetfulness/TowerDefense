@@ -8,6 +8,6 @@ thrusterLength: 15
 requirements: [
   tin/150
 ]
-research g2-research-station
+research: g2-research-station
 alwaysUnlocked: true
 category: effect
