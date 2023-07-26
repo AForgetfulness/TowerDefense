@@ -39,6 +39,7 @@ allowLaunchSchematics: false
 allowWaves: true
 defaultCore: core-foundation
 parent: sun
+allowLaunchToNumbered: false
 alwaysUnlocked: true
 hiddenItems: [
     scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
