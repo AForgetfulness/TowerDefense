@@ -28,3 +28,12 @@ results: [
   f4-energy-point/1
   f5-unit-point/1
 ]
+research: a1-tin-mine
+researchCost: [
+  f11-tin-ingot/5000
+  f2-tower-point/750
+  f3-defence-point/750
+  f4-energy-point/750
+  f5-unit-point/750
+  f7-advanced-research-rune/2
+]
