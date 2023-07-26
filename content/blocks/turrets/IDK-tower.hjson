@@ -16,7 +16,7 @@ shootY: 0
 shoot: {
     type: ShootSpread
     shots: 20
-    spread: 16
+    spread: 18
     shotDelay: 0
 }
 
