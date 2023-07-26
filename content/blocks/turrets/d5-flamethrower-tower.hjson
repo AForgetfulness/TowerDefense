@@ -39,3 +39,8 @@ requirements: [
   f11-tin-ingot/30
   f2-tower-point/150
 ]
+research: d3-artillery-tower
+researchCost: [
+  f2-attack-point/750
+  f6-research-rune/2
+]
