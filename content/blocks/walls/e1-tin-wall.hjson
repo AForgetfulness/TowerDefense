@@ -5,7 +5,7 @@ requirements: [
   f1-tin/6
   f3-defence-point/2
 ]
-research: core-shard
+research: g2-research-station
 researchCost: [
   f3-defence-point/600
   f6-research-rune/2
