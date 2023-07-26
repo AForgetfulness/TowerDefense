@@ -6,3 +6,8 @@ requirements: [
   f1-tin/24
   f3-defence-point/8
 ]
+research: e1-tin-wall
+researchCost: [
+  f3-defence-point/2400
+  f6-research-rune/4
+]
