@@ -44,3 +44,8 @@ requirements: [
     f2-tower-point/50
 ]
 category: turret
+research: d1-basic-tower
+researchCost: [
+  f2-tower-point/500
+  f6-research-rune/2
+]
