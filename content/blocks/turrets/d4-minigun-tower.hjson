@@ -41,3 +41,8 @@ requirements: [
     f2-tower-point/50
 ]
 category: turret
+research: d2-shootgun-tower
+researchCost: [
+  f2-attack-point/750
+  f6-research-rune/2
+]
