@@ -14,3 +14,8 @@ category: production
 results: [
   f3-defence-point/1
 ]
+research: a1-tin-mine
+researchCost: [
+  f4-defence-point/250
+  f6-research-rune/2
+]
