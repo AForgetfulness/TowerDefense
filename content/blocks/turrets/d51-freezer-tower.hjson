@@ -45,3 +45,8 @@ requirements: [
   f2-tower-point/150
   f4-energy-point/75
 ]
+research: d2-shootgun-tower
+researchCost: [
+  f2-attack-point/750
+  f6-research-rune/2
+]
