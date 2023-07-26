@@ -6,7 +6,7 @@ unitType: defender
 unitCapModifier: 4
 thrusterLength: 15
 requirements: [
-  tin/150
+  f1-tin/150
 ]
 research: g2-research-station
 alwaysUnlocked: true
