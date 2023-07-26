@@ -15,6 +15,7 @@ speed: 7
 rotateSpeed: 4
 armor: 1
 itemCapacity: 75
+outlineColor: 1f1f1f
 weapons: [
   {
     name: none
