@@ -7,7 +7,7 @@ mesh: {
   color2: 363636
   colorScale: 1.5
   radius: 0.8
-  octaves: 3
+  octaves: 2
   persistence: 1
   scale: 1
   mag: 1.5
@@ -33,13 +33,14 @@ atmosphereColor: 525252
 iconColor: 363636
 hasAtmosphere: true
 allowSectorInvasion: false
+allowLaunchToNumbered: false
 allowWaveSimulation: true
+
 clearSectorOnLose: true
 allowLaunchSchematics: false
 allowWaves: true
 defaultCore: core-foundation
 parent: sun
-allowLaunchToNumbered: false
 alwaysUnlocked: true
 hiddenItems: [
     scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
