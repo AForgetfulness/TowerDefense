@@ -45,3 +45,8 @@ coolant: {}
 recoil: 3
 shootSound: spark
 category: turret
+research: d3-artillery-tower
+researchCost: [
+  f2-tower-point/350
+  f6-research-rune/2
+]
