@@ -15,5 +15,12 @@ consumes: {
 requirements: [
   f1-tin/300
 ]
+research: {
+  root: true
+  name: Tower Defense
+  requiresUnlock: false
+  planet: anarchy-region
+}
+alwaysUnlocked: true
 category: crafting
 outputItem: f6-research-rune/1
