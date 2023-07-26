@@ -1,7 +1,7 @@
 type: ItemTurret
 reload: 20
 shootCone: 20
-rotateSpeed: 10
+rotateSpeed: 0
 targetGround: true
 targetAir: false
 range: 200
