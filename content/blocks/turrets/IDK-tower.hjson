@@ -23,14 +23,14 @@ shoot: {
 ammoTypes: {
     f1-tin: {
         damage: 10
-        speed: 10
+        speed: 6
         height: 15
         width: 10
         lifetime: 17
     }
     f11-tin-ingot: {
         damage: 12
-        speed: 12
+        speed: 8
         height: 16
         width: 11
         lifetime: 17
