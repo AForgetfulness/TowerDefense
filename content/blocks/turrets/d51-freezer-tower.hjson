@@ -6,6 +6,7 @@ reload: 5
 recoil: 1
 targetAir: false
 shootSound: flame
+hasPower: true
 ammoTypes: {
   copper: {
     damage: 1
@@ -32,6 +33,10 @@ ammoTypes: {
       sizeTo: 0.8
     }
   }
+}
+consumes: {
+power: 4
+coolant: {}
 }
 category: turret
 requirements: [
