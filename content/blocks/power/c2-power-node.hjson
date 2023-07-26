@@ -12,3 +12,8 @@ requirements: [
  ]
 range: 6
 category: power
+research: c1-solar-panel
+researchCost: [
+  f4-energy-point/250
+  f6-research-rune/2
+]
