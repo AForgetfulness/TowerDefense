@@ -4,7 +4,7 @@ shootCone: 360
 rotateSpeed: 0
 targetGround: true
 targetAir: false
-range: 200
+range: 125
 recoil: 0
 size: 2
 health: 400
