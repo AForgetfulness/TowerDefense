@@ -42,6 +42,6 @@ requirements: [
 category: turret
 research: d1-basic-tower
 researchCost: [
-  f2-attack-point/350
+  f2-tower-point/350
   f6-research-rune/1
 ]
