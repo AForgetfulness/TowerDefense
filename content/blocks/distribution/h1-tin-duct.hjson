@@ -14,3 +14,5 @@ outputRouter: false
 
 speed: 0.08
 category: distribution
+research: g2-research-station
+alwaysUnlocked: true
