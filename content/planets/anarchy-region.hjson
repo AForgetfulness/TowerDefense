@@ -35,7 +35,7 @@ hasAtmosphere: true
 allowSectorInvasion: false
 allowWaveSimulation: true
 clearSectorOnLose: true
-allowLaunchSchematics: true
+allowLaunchSchematics: false
 allowWaves: true
 defaultCore: core-foundation
 parent: sun
