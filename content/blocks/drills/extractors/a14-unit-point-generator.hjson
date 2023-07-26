@@ -16,6 +16,5 @@ results: [
 ]
 research: a1-tin-mine
 researchCost: [
-  f5-unit-point/250
   f6-research-rune/2
 ]
