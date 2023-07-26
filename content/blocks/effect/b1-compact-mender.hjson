@@ -16,3 +16,9 @@ requirements: [
 	f3-defence-point/150
 	f4-energy-point/75
 ]
+research: g2-research-station
+researchCost: [
+  f4-energy-point/250
+  f3-defence-point/250
+  f6-research-rune/5
+]
