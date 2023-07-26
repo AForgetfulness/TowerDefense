@@ -2,7 +2,7 @@ Type: CoreBlock
 health: 4000
 itemCapacity: 1000
 size: 2
-unitType: defender
+unitType: i1-defender
 unitCapModifier: 4
 thrusterLength: 15
 requirements: [
