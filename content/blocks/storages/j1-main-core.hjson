@@ -1,0 +1,13 @@
+Type: CoreBlock
+health: 4000
+itemCapacity: 1000
+size: 4
+unitType: 
+unitCapModifier: 4
+thrusterLength: 15
+requirements: [
+  tin/150
+]
+research g2-research-station
+alwaysUnlocked: true
+category: effect
