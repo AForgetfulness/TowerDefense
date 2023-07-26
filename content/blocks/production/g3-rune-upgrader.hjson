@@ -24,3 +24,12 @@ requirements: [
 ]
 category: crafting
 outputItem: f7-advanced-research-rune/1
+research: g1-tin-smelter
+researchCost: [
+  f11-tin-ingot/5000
+  f2-tower-point/750
+  f3-defence-point/750
+  f4-energy-point/750
+  f5-unit-point/750
+  f6-research-rune/30
+]
