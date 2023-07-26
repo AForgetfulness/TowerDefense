@@ -7,6 +7,6 @@ requirements: [
 ]
 research: core-shard
 researchCost: [
-  defence-point/600
+  f3-defence-point/600
   f6-research-rune/2
 ]
