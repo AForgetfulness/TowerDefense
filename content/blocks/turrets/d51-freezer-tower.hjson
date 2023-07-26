@@ -23,19 +23,20 @@ ammoTypes: {
       type: ParticleEffect
       particles: 25
       length: 140
-      lifetime: 36
+      lifetime: 40
       interp: circleOut
       cone: 3
       colorFrom: c9fff3
       colorTo: 57ffdb
-      sizeFrom: 5
-      sizeTo: 0.6
+      sizeFrom: 5.5
+      sizeTo: 0.8
     }
   }
 }
 category: turret
 requirements: [
   f1-tin/350
-  f11-tin-ingot/30
+  f11-tin-ingot/50
   f2-tower-point/150
+  f3-energy-point/75
 ]
