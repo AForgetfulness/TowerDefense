@@ -10,3 +10,6 @@ researchCost: [
   f3-defence-point/600
   f6-research-rune/2
 ]
+objectives: [
+  capturedSector: beginning
+]
