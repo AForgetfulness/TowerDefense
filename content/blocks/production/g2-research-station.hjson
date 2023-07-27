@@ -1,14 +1,14 @@
 type: GenericCrafter
 size: 2
-craftTime: 18000
+craftTime: 9000
 hasItems: true
 hasLiquids: false
 hasPower: false
-itemCapacity: 25
+itemCapacity: 200
 consumes: {
   items: {
     items: [
-      f1-tin/25
+      f1-tin/100
     ]
   }
 }
