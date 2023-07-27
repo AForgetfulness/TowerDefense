@@ -39,7 +39,7 @@ allowWaveSimulation: true
 clearSectorOnLose: true
 allowLaunchSchematics: false
 allowWaves: true
-defaultCore: core-foundation
+defaultCore: j1-main-core
 parent: sun
 alwaysUnlocked: true
 hiddenItems: [
