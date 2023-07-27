@@ -3,6 +3,3 @@ planet: anarchy-region
 captureWave: 16
 difficulty: 1
 research: beginning
-researchCost: [
-  f6-research-rune/2
-]
