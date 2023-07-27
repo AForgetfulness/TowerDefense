@@ -1,0 +1,13 @@
+type: Sorter
+health: 50
+speed: 2
+capacity: 10
+requirements: [
+  f1-tin/20
+  f11-tin-ingot/2
+] 
+research: h1-tin-duct
+researchCost: [
+  f6-research-rune/1
+]
+category: distribution
