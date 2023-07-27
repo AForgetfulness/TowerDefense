@@ -5,11 +5,16 @@ requirements: [
   f1-tin/6
   f3-defence-point/2
 ]
-research: g2-research-station
+research: {
+  parent: g2-research-station
+  objectives: [
+    {
+      type: OnSector
+      preset: hellishtower
+    }
+  ]
+}
 researchCost: [
   f3-defence-point/600
   f6-research-rune/2
-]
-objectives: [
-  capturedSector: hellishtower
 ]
