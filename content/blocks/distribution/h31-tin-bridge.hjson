@@ -1,0 +1,25 @@
+type: ItemBridge
+health: 50
+speed: 2
+capacity: 10
+range: 6
+transportTime: 1
+update: true
+solid: true
+hasPower: false
+expanded: true
+itemCapacity: 10
+posConfig: true
+configurable: true
+hasItems: true
+unloadable: false
+requirements: [
+  f1-tin/40
+  f11-tin-ingot/8
+] 
+research: h1-tin-duct
+researchCost: [
+  f6-research-rune/2
+]
+group: transportation
+category: distribution
