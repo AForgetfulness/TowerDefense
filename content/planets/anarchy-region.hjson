@@ -37,7 +37,7 @@ allowLaunchToNumbered: false
 allowWaveSimulation: true
 
 clearSectorOnLose: true
-allowLaunchSchematics: false
+allowLaunchSchematics: true
 allowWaves: true
 defaultCore: j1-main-core
 parent: sun
