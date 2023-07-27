@@ -6,7 +6,8 @@ unitType: i1-defender
 unitCapModifier: 4
 thrusterLength: 15
 requirements: [
-  f1-tin/150
+  f1-tin/500
+  f6-research-rune/2
 ]
 research: g2-research-station
 alwaysUnlocked: true
