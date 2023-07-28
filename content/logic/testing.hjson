@@ -1,4 +1,4 @@
-type: Canvas
+type: CanvasBlock
 health: 400
 size: 2
 canvasSize: 32
