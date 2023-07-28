@@ -14,7 +14,15 @@ category: production
 results: [
   f4-energy-point/1
 ]
-research: a1-tin-mine
+research: {
+  parent: a1-tin-mine
+  objectives: [
+    {
+      type: OnSector
+      preset: platforms
+    }
+  ]
+}
 researchCost: [
   f6-research-rune/5
 ]
