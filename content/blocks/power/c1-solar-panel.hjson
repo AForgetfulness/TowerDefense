@@ -7,7 +7,15 @@ requirements: [
     f4-energy-point/20
 ]
 category: power
-research: g2-research-station
+research: {
+  parent: g2-research-station
+  objectives: [
+    {
+      type: OnSector
+      preset: platforms
+    }
+  ]
+}
 researchCost: [
   f4-energy-point/250
   f6-research-rune/2
