@@ -3,18 +3,18 @@ health: 400
 size: 2
 canvasSize: 32
 palette: {
-  171717
-  666666
-  dedede
-  ff4040
-  8f572f
-  ff8640
-  fff940
-  89ff40
-  46ff40
-  40ffc3
-  4046ff
-  ac40ff
+  171717,
+  666666,
+  dedede,
+  ff4040,
+  8f572f,
+  ff8640,
+  fff940,
+  89ff40,
+  46ff40,
+  40ffc3,
+  4046ff,
+  ac40ff,
   ff40c9
 }
 category: logic
