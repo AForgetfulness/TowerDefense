@@ -1,0 +1,20 @@
+type: GenericCrafter
+size: 2
+craftTime: 600
+hasItems: true
+hasLiquids: false
+hasPower: true
+consumes: {
+  power: 1
+}
+requirements: [
+  f1-tin/500
+  f6-research-rune/1
+]
+category: crafting
+outputItem: f12-ice/1
+research: g1-tin-smelter
+researchCost: [
+  f1-tin/1000
+  f6-research-rune/2
+]
