@@ -1,7 +1,0 @@
-type: CanvasBlock
-health: 400
-size: 2
-canvasSize: 32
-palette: { 0xff4747_ff, 0xc45d9f_ff, 0xe39aac_ff, 0xf0dab1_ff, 0x6461c2_ff, 0x2ba9b4_ff, 0x93d4b5_ff, 0xf0f6e8_ff }
-category: logic
-buildVisibility: shown
