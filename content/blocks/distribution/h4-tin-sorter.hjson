@@ -6,7 +6,15 @@ requirements: [
   f1-tin/20
   f11-tin-ingot/2
 ] 
-research: h1-tin-duct
+research: {
+  parent: h1-tin-duct
+  objectives: [
+    {
+      type: OnSector
+      preset: abandonedfactory
+    }
+  ]
+}
 researchCost: [
   f6-research-rune/1
 ]
