@@ -35,7 +35,7 @@ ammoTypes: {
   }
 }
 consumes: {
-power: 4
+power: 2
 coolant: {}
 }
 category: turret
