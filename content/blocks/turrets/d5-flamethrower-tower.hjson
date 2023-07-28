@@ -7,7 +7,7 @@ recoil: 1
 targetAir: false
 shootSound: flame
 ammoTypes: {
-  f12-ice: {
+  coal: {
     damage: 12
     speed: 6
     pierce: true
