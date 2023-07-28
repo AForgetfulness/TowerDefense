@@ -2,20 +2,6 @@ type: CanvasBlock
 health: 400
 size: 2
 canvasSize: 32
-palette: {
-  171717,
-  666666,
-  dedede,
-  ff4040,
-  8f572f,
-  ff8640,
-  fff940,
-  89ff40,
-  46ff40,
-  40ffc3,
-  4046ff,
-  ac40ff,
-  ff40c9
-}
+palette: { 0x362944_ff, 0xc45d9f_ff, 0xe39aac_ff, 0xf0dab1_ff, 0x6461c2_ff, 0x2ba9b4_ff, 0x93d4b5_ff, 0xf0f6e8_ff }
 category: logic
 buildVisibility: shown
