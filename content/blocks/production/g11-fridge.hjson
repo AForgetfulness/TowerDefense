@@ -1,6 +1,6 @@
 type: GenericCrafter
 size: 2
-craftTime: 600
+craftTime: 60
 hasItems: true
 hasLiquids: false
 hasPower: true
