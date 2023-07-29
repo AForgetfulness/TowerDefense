@@ -34,13 +34,14 @@ weapons: [
     fragCone: 360
     hitSound: laser
     fragBullet: {
-    type: LaserBulletType
-    length: 30
-    colors: [a80000 a80000 FFFFFF]
-    damage: 30
-  }
-  }
- ]
+     type: LaserBulletType
+     length: 30
+     colors: [a80000 a80000 FFFFFF]
+     damage: 30
+   }
+ }
+ }
+]
 
 
 research: j1-main-core
