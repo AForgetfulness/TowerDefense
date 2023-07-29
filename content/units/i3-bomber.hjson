@@ -11,6 +11,7 @@ accel: 0.15
 mechSideSway: 0.25
 
 itemCapacity: 10
+outlineColor: 1f1f1f
 
 weapons: [
  {
