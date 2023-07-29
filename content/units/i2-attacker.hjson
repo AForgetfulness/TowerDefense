@@ -48,5 +48,5 @@ weapons: [
  ]
 
 
-research: simple-core
-researchCostMultiplier: 0.2
+research: j1-main-core
+alwaysUnlocked: true
