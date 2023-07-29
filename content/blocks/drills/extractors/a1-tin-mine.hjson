@@ -12,6 +12,7 @@ requirements: [
 category: production
 results: [
   f1-tin/1
+  coal/1
 ]
 research: g2-research-station
 alwaysUnlocked: true
