@@ -36,7 +36,7 @@ weapons: [
     fragBullet: {
      type: LaserBulletType
      length: 30
-     colors: [a80000 a80000 FFFFFF]
+     colors: [db401c db401c ffdd55]
      damage: 30
    }
  }
