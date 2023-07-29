@@ -14,7 +14,7 @@ itemCapacity: 10
 weapons: [
  {
   type: Weapon
-  name: attacker-weapon
+  name: i2-attacker-weapon
   
   top: false
   x: 0
