@@ -10,6 +10,7 @@ rotateSpeed: 2.2
 accel: 0.15
 
 itemCapacity: 10
+outlineColor: 1f1f1f
 
 weapons: [
  {
