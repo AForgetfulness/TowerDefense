@@ -1,0 +1,47 @@
+type: mech
+mechLegColor: 1f1f1f
+
+health: 120
+armor: 1
+hitSize: 9
+controller: SuicideAI
+speed: 1
+rotateSpeed: 2.2
+accel: 0.15
+mechSideSway: 0.25
+
+itemCapacity: 10
+
+weapons: [
+ {
+  name: boom
+  reload: 24
+  shootCone: 180
+  ejectEffect: none
+  shootSound: explosion
+  bullet: {
+    type: BombBulletType
+    hitEffect: pulverize
+    lifetime: 10
+    speed: 1
+    splashDamageRadius: 45
+    instantDisappear: true
+    splashDamage: 60
+    killShooter: true
+    hittable: false
+    collidesAir: true
+    fragBullets: 6
+    fragCone: 360
+    hitSound: laser
+    fragBullet: {
+    type: LaserBulletType
+    length: 30
+    colors: [a80000 a80000 FFFFFF]
+    damage: 30
+  }
+  }
+ ]
+
+
+research: j1-main-core
+alwaysUnlocked: true
