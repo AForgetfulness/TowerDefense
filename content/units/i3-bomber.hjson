@@ -5,7 +5,7 @@ health: 120
 armor: 1
 hitSize: 9
 controller: SuicideAI
-speed: 1
+speed: 5
 rotateSpeed: 2.2
 accel: 0.15
 mechSideSway: 0.25
