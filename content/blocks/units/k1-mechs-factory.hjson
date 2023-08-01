@@ -37,3 +37,6 @@ research: {
     }
   ]
 }
+researchCost: [
+  f6-research-rune/4
+]
