@@ -1,0 +1,53 @@
+type: mech
+mechLegColor: 1f1f1f
+
+health: 800
+armor: 3
+hitSize: 12
+
+speed: 0.6
+rotateSpeed: 1.6
+accel: 0.15
+
+itemCapacity: 35
+outlineColor: 1f1f1f
+
+weapons: [
+ {
+  type: Weapon
+  name: i21-destroyer-weapon
+  
+  top: false
+  x: 0
+  y: 0
+  shootY: 2
+  shootX: 5.2
+  
+  mirror: true
+  rotate: false
+  shootCone: 10
+  inaccuracy: 0
+  reload: 6
+  targetInterval: 1
+  targetSwitchInterval: 1
+  cooldownTime: 100
+  
+  bullet: {
+   type: BasicBulletType
+   width: 8
+   height: 10
+   
+   damage: 35
+   
+   speed: 2.7
+   lifetime: 30
+   
+   trailWidth: 1
+   trailLength: 5
+   }
+  }
+ ]
+
+
+research: i2-attacker
+alwaysUnlocked: true
