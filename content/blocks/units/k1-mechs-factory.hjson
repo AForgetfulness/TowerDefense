@@ -1,6 +1,5 @@
 type: UnitFactory
 category: units
-research: i2-attacker
 size: 3
 consumes: {
   power: 4
@@ -29,3 +28,12 @@ requirements: [
   f1-tin/350
   f5-unit-point/100
 ]
+research: {
+  parent: i2-attacker
+  objectives: [
+    {
+      type: OnSector
+      preset: raid
+    }
+  ]
+}
