@@ -43,8 +43,16 @@ requirements: [
     f11-tin-ingot/20
     f2-tower-point/50
 ]
+research: {
+  parent: d1-basic-tower
+  objectives: [
+    {
+      type: OnSector
+      preset: hellishtower
+    }
+  ]
+}
 category: turret
-research: d1-basic-tower
 researchCost: [
   f2-tower-point/500
   f6-research-rune/2
