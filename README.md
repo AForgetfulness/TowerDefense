@@ -5,4 +5,4 @@ Mod in development, so there isn't many items
 
 Explore sectors to unlock new objects,  
 Create the best defense,  
-Find the easiest way to win,  
+Find the easiest way to win
