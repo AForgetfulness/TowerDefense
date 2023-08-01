@@ -41,7 +41,15 @@ requirements: [
     f2-tower-point/50
 ]
 category: turret
-research: d2-shootgun-tower
+research: {
+  parent: d2-shootgun-tower
+  objectives: [
+    {
+      type: OnSector
+      preset: crackedfloor
+    }
+  ]
+}
 researchCost: [
   f2-tower-point/750
   f6-research-rune/2
