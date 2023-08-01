@@ -1,6 +1,5 @@
 type: UnitFactory
 category: units
-research: i1-defender
 size: 3
 consumes: {
   power: 4
@@ -21,3 +20,12 @@ requirements: [
   f1-tin/350
   f5-unit-point/100
 ]
+research: {
+  parent: k1-mechs-factory
+  objectives: [
+    {
+      type: OnSector
+      preset: raid
+    }
+  ]
+}
