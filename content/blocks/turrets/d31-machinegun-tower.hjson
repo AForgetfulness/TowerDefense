@@ -46,7 +46,7 @@ research: {
   objectives: [
     {
       type: OnSector
-      preset: hellish-tower
+      preset: hellishtower
     }
   ]
 }
