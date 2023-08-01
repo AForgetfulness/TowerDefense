@@ -11,7 +11,7 @@ health: 400
 AmmoPerShot: 1
 shootSound: shootBig
 shootShake: 1
-inaccuracy: 25
+inaccuracy: 15
 
 shoot: {
     shots: 1
@@ -24,14 +24,14 @@ ammoTypes: {
         damage: 8
         speed: 10
         height: 10
-        width: 5
+        width: 7
         lifetime: 15
     }
     f11-tin-ingot: {
         damage: 12
         speed: 11
         height: 11
-        width: 6
+        width: 8
         lifetime: 15
     }
 }
