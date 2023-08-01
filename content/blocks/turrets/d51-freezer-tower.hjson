@@ -45,7 +45,15 @@ requirements: [
   f2-tower-point/150
   f4-energy-point/75
 ]
-research: d2-shootgun-tower
+research: {
+  parent: d2-shootgun-tower
+  objectives: [
+    {
+      type: OnSector
+      preset: coldice
+    }
+  ]
+}
 researchCost: [
   f2-tower-point/750
   f6-research-rune/2
