@@ -29,7 +29,7 @@ requirements: [
   f5-unit-point/100
 ]
 research: {
-  parent: i2-attacker
+  parent: j1-main-core
   objectives: [
     {
       type: OnSector
