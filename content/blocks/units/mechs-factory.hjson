@@ -1,0 +1,23 @@
+type: UnitFactory
+category: units
+research: i2-attacker
+size: 3
+consumes: {
+  power: 4
+}
+configurable: true
+plans: [
+  {
+    unit: i2-attacker
+    time: 600
+    requirements: [
+      f1-tin/100
+      f11-tin-ingot/10
+      f5-unit-point/20
+    ]
+  }
+]
+requirements: [
+  f1-tin/350
+  f5-unit-point/100
+]
