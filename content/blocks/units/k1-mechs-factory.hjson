@@ -16,6 +16,14 @@ plans: [
       f5-unit-point/20
     ]
   }
+  {
+    unit: i3-bomber
+    time: 600
+    requirements: [
+      f1-tin/50
+      f5-unit-point/10
+    ]
+  }
 ]
 requirements: [
   f1-tin/350
