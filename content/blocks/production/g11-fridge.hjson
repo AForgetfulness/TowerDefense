@@ -13,7 +13,18 @@ requirements: [
 ]
 category: crafting
 outputItem: f12-ice/1
-research: g1-tin-smelter
+research: {
+  parent: g1-tin-smelter
+  objectives: [
+    {
+      type: OnSector
+      preset: coldice
+    }
+  ]
+}
+researchCost: [
+  f6-research-rune/2
+]
 researchCost: [
   f1-tin/1000
   f6-research-rune/2
