@@ -13,7 +13,7 @@ consumes: {
   }
 }
 requirements: [
-  f1-tin/300
+  f1-tin/150
 ]
 research: {
   root: true
