@@ -1,11 +1,11 @@
 type: mech
 mechLegColor: 1f1f1f
 
-health: 800
+health: 2000
 armor: 3
 hitSize: 12
 
-speed: 0.6
+speed: 0.3
 rotateSpeed: 1.6
 accel: 0.15
 
@@ -27,7 +27,7 @@ weapons: [
   rotate: false
   shootCone: 10
   inaccuracy: 0
-  reload: 6
+  reload: 60
   targetInterval: 1
   targetSwitchInterval: 1
   cooldownTime: 100
