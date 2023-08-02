@@ -37,7 +37,7 @@ weapons: [
    width: 5
    height: 7
    
-   damage: 25
+   damage: 5
    
    speed: 2.7
    lifetime: 30
