@@ -38,7 +38,7 @@ ammoTypes: {
 }
 requirements: [
     f1-tin/50
-    f2-tower-point/25
+    f2-tower-point/10
 ]
 category: turret
 research: g2-research-station
