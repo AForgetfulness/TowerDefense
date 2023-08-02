@@ -14,7 +14,15 @@ category: production
 results: [
   f5-unit-point/1
 ]
-research: a1-tin-mine
 researchCost: [
   f6-research-rune/5
 ]
+research: {
+  parent: a1-tin-mine
+  objectives: [
+    {
+      type: OnSector
+      preset: raid
+    }
+  ]
+}
