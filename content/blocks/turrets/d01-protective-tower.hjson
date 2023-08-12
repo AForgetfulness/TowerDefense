@@ -1,0 +1,44 @@
+type: ItemTurret
+reload: 20
+shootCone: 20
+rotateSpeed: 15
+targetGround: true
+targetAir: false
+range: 140
+recoil: 1.3
+size: 1
+health: 200
+AmmoPerShot: 1
+shootSound: shootBig
+shootShake: 4
+inaccuracy: 10
+
+shoot: {
+    shots: 1
+    spread: 0
+    shotDelay: 0
+}
+
+ammoTypes: {
+    f1-tin: {
+        damage: 5
+        speed: 8
+        height: 15
+        width: 10
+        lifetime: 17
+    }
+    f11-tin-ingot: {
+        damage: 10
+        speed: 10
+        height: 16
+        width: 11
+        lifetime: 17
+    }
+
+}
+requirements: [
+    f1-tin/50
+]
+category: turret
+research: d1-basic-tower
+alwaysUnlocked: true
