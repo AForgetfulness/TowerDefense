@@ -1,5 +1,6 @@
 type: GenericCrafter
 size: 2
+health: 600
 craftTime: 90
 hasItems: true
 hasLiquids: false
