@@ -37,7 +37,7 @@ ammoTypes: {
 
 }
 requirements: [
-    f1-tin/50
+    f1-tin/100
 ]
 category: turret
 research: d1-basic-tower
