@@ -1,7 +1,7 @@
 type: mech
 mechLegColor: 1f1f1f
 
-health: 3000
+health: 2500
 armor: 3
 hitSize: 12
 
@@ -37,7 +37,7 @@ weapons: [
    width: 8
    height: 10
    
-   damage: 105
+   damage: 70
    
    speed: 2.7
    lifetime: 30
