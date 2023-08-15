@@ -37,7 +37,7 @@ ammoTypes: {
 }
 requirements: [
     f1-tin/75
-    f2-tower-point/25
+    f2-tower-point/15
 ]
 research: {
   parent: d1-basic-tower
