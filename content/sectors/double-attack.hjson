@@ -3,7 +3,7 @@ planet: anarchy-region
 captureWave: 26
 difficulty: 1
 research: {
-  parent: beginning
+  parent: first-step
   objectives: [
     {
       type: SectorComplete
