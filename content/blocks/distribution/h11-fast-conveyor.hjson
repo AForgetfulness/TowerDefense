@@ -12,7 +12,7 @@ requirements: [
 itemCapacity: 1
 outputRouter: false
 
-speed: 0.24
+speed: 0.3
 category: distribution
 research: {
   parent: h1-tin-duct
