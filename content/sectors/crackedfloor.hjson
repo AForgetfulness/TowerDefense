@@ -1,6 +1,6 @@
 sector: 2
 planet: anarchy-region
-captureWave: 11
+captureWave: 51
 difficulty: 1
 research: {
   parent: abandonedfactory
