@@ -26,8 +26,8 @@ weapons: [
   mirror: true
   rotate: false
   shootCone: 10
-  inaccuracy: 0
-  reload: 1
+  inaccuracy: 3
+  reload: 2
   targetInterval: 1
   targetSwitchInterval: 1
   cooldownTime: 10
@@ -37,7 +37,7 @@ weapons: [
    width: 2
    height: 5
    
-   damage: 5
+   damage: 10
    
    speed: 4
    lifetime: 40
