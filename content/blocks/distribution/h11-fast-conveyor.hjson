@@ -14,12 +14,7 @@ outputRouter: false
 
 speed: 0.3
 category: distribution
-research: {
-  parent: h1-tin-duct
-  objectives: [
-    {
-      type: OnSector
-      preset: abandonedfactory
-    }
-  ]
-}
+research: h1-tin-duct
+researchCost: [
+  f6-research-rune/1
+]
