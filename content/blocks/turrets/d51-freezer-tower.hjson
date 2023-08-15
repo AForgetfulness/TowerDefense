@@ -42,8 +42,8 @@ category: turret
 requirements: [
   f1-tin/350
   f11-tin-ingot/50
-  f2-tower-point/150
-  f4-energy-point/75
+  f2-tower-point/75
+  f4-energy-point/50
 ]
 research: {
   parent: d2-shootgun-tower
