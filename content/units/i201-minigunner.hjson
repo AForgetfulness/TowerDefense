@@ -1,8 +1,8 @@
 type: mech
 mechLegColor: 1f1f1f
 
-health: 200
-armor: 5
+health: 300
+armor: 10
 hitSize: 9
 
 speed: 1.3
