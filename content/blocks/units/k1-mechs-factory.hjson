@@ -8,16 +8,25 @@ configurable: true
 plans: [
   {
     unit: i2-attacker
+    time: 300
+    requirements: [
+      f1-tin/75
+      f11-tin-ingot/10
+      f5-unit-point/25
+    ]
+  }
+{
+    unit: i201-minigunner
     time: 600
     requirements: [
-      f1-tin/100
-      f11-tin-ingot/10
-      f5-unit-point/20
+      f1-tin/150
+      f11-tin-ingot/20
+      f5-unit-point/50
     ]
   }
   {
     unit: i3-bomber
-    time: 600
+    time: 300
     requirements: [
       f1-tin/50
       f5-unit-point/10
