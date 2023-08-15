@@ -1,0 +1,13 @@
+sector: 31
+planet: anarchy-region
+captureWave: 31
+difficulty: 1
+research: {
+  parent: double-attack
+  objectives: [
+    {
+      type: SectorComplete
+      preset: double-attack
+    }
+  ]
+}
