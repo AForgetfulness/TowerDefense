@@ -33,7 +33,7 @@ research: {
   objectives: [
     {
       type: OnSector
-      preset: beginning
+      preset: raid
     }
   ]
 }
