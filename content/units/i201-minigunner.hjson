@@ -1,0 +1,53 @@
+type: mech
+mechLegColor: 1f1f1f
+
+health: 200
+armor: 5
+hitSize: 9
+
+speed: 1.3
+rotateSpeed: 2.5
+accel: 0.15
+
+itemCapacity: 10
+outlineColor: 1f1f1f
+
+weapons: [
+ {
+  type: Weapon
+  name: i201-minigunner-weapon
+  
+  top: false
+  x: 0
+  y: 0
+  shootY: 2
+  shootX: 4.2
+  
+  mirror: true
+  rotate: false
+  shootCone: 10
+  inaccuracy: 0
+  reload: 1
+  targetInterval: 1
+  targetSwitchInterval: 1
+  cooldownTime: 10
+  
+  bullet: {
+   type: BasicBulletType
+   width: 2
+   height: 5
+   
+   damage: 5
+   
+   speed: 2.7
+   lifetime: 40
+   
+   trailWidth: 1
+   trailLength: 5
+   }
+  }
+ ]
+
+
+research: j1-main-core
+alwaysUnlocked: true
