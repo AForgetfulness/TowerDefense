@@ -1,0 +1,13 @@
+sector: 3
+planet: anarchy-region
+captureWave: 26
+difficulty: 1
+research: {
+  parent: beginning
+  objectives: [
+    {
+      type: SectorComplete
+      preset: first-step
+    }
+  ]
+}
