@@ -1,0 +1,25 @@
+type: StackConveyor
+
+health: 30
+underBullets: true
+solid: false
+
+size: 1
+requirements: [
+ f1-tin/2
+ ]
+
+itemCapacity: 1
+outputRouter: false
+
+speed: 0.24
+category: distribution
+research: {
+  parent: h1-tin-duct
+  objectives: [
+    {
+      type: OnSector
+      preset: abandonedfactory
+    }
+  ]
+}
