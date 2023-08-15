@@ -2,4 +2,12 @@ sector: 4
 planet: anarchy-region
 captureWave: 6
 difficulty: 3
-research: beginning
+research: {
+  parent: separation
+  objectives: [
+    {
+      type: SectorComplete
+      preset: separation
+    }
+  ]
+}
