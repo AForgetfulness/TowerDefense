@@ -37,7 +37,7 @@ category: turret
 requirements: [
   f1-tin/350
   f11-tin-ingot/30
-  f2-tower-point/150
+  f2-tower-point/75
 ]
 research: {
   parent: d3-artillery-tower
