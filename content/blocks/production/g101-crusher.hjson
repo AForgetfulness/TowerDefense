@@ -25,7 +25,7 @@ results: [
   f4-energy-point/1
   f5-unit-point/1
 ]
-research: a1-tin-mine
+research: g1-tin-smelter
 researchCost: [
   f11-tin-ingot/2500
   f2-tower-point/500
