@@ -1,4 +1,12 @@
 sector: 12
 planet: anarchy-region
 difficulty: 3
-research: beginning
+research: {
+  parent: separation
+  objectives: [
+    {
+      type: SectorComplete
+      preset: separation
+    }
+  ]
+}
