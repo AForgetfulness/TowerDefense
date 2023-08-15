@@ -1,10 +1,10 @@
 type: Separator
 health: 800
 size: 2
-craftTime: 60
+craftTime: 30
 hasItems: true
 hasLiquids: false
-hasPower: true
+hasPower: false
 itemCapacity: 100
 consumes: {
   items: {
@@ -18,7 +18,7 @@ requirements: [
   f11-tin-ingot/100
   f6-research-rune/1
 ]
-category: production
+category: crafting
 results: [
   f2-tower-point/1
   f3-defence-point/1
