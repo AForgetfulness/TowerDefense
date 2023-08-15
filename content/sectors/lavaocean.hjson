@@ -2,4 +2,12 @@ sector: 15
 planet: anarchy-region
 captureWave: 11
 difficulty: 1
-research: beginning
+research: {
+  parent: abandonedfactory
+  objectives: [
+    {
+      type: SectorComplete
+      preset: abandonedfactory
+    }
+  ]
+}
