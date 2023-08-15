@@ -2,4 +2,12 @@ sector: 1
 planet: anarchy-region
 captureWave: 11
 difficulty: 3
-research: beginning
+research: {
+  parent: hellishtower
+  objectives: [
+    {
+      type: SectorComplete
+      preset: hellishtower
+    }
+  ]
+}
