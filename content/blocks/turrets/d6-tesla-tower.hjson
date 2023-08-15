@@ -4,8 +4,8 @@ size: 2
 requirements: [
   f1-tin/350
   f11-tin-ingot/35
-  f2-tower-point/100
-  f4-energy-point/100
+  f2-tower-point/50
+  f4-energy-point/35
 ]
 range: 70
 shootType: {
