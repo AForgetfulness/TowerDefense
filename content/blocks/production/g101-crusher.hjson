@@ -1,0 +1,35 @@
+type: Separator
+health: 800
+size: 2
+craftTime: 60
+hasItems: true
+hasLiquids: false
+hasPower: true
+itemCapacity: 100
+consumes: {
+  items: {
+    items: [
+      f1-tin/10
+    ]
+  }
+}
+requirements: [
+  f1-tin/1000
+  f11-tin-ingot/100
+  f6-research-rune/1
+]
+category: production
+results: [
+  f2-tower-point/1
+  f3-defence-point/1
+  f4-energy-point/1
+  f5-unit-point/1
+]
+research: a1-tin-mine
+researchCost: [
+  f11-tin-ingot/2500
+  f2-tower-point/500
+  f3-defence-point/500
+  f4-energy-point/500
+  f5-unit-point/500
+  f6-research-rune/20
