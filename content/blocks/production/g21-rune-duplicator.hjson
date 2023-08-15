@@ -1,0 +1,35 @@
+type: GenericCrafter
+size: 2
+craftTime: 600
+health: 1500
+hasItems: true
+hasLiquids: false
+hasPower: false
+itemCapacity: 100
+consumes: {
+  items: {
+    items: [
+      f2-tower-point/50
+      f3-defence-point/50
+      f4-energy-point/50
+      f5-unit-point/50
+      f6-research-rune/1
+    ]
+  }
+}
+requirements: [
+  f1-tin/1000
+  f11-tin-ingot/100
+  f7-advanced-research-rune/1
+]
+category: crafting
+outputItem: f6-research-rune/2
+research: g1-tin-smelter
+researchCost: [
+  f11-tin-ingot/5000
+  f2-tower-point/750
+  f3-defence-point/750
+  f4-energy-point/750
+  f5-unit-point/750
+  f7-advanced-research-rune/5
+]
