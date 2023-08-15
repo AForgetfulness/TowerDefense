@@ -2,4 +2,12 @@ sector: 28
 planet: anarchy-region
 captureWave: 13
 difficulty: 1
-research: beginning
+research: {
+  parent: platforms
+  objectives: [
+    {
+      type: SectorComplete
+      preset: platforms
+    }
+  ]
+}
