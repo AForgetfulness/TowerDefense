@@ -39,7 +39,7 @@ weapons: [
    
    damage: 5
    
-   speed: 2.7
+   speed: 4
    lifetime: 40
    
    trailWidth: 1
