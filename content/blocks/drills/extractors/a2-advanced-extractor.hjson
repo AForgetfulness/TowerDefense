@@ -7,11 +7,6 @@ hasLiquids: false
 hasPower: true
 consumes: {
   power: 4
-  items: {
-    items: [
-    f1-tin/2
-    ]
-  }
 }
 requirements: [
   f11-tin-ingot/100
@@ -19,7 +14,7 @@ requirements: [
   f3-defence-point/75
   f4-energy-point/75
   f5-unit-point/75
-  f7-advanced-research-rune/2
+  f7-advanced-research-rune/1
 ]
 category: production
 results: [
@@ -35,5 +30,5 @@ researchCost: [
   f3-defence-point/750
   f4-energy-point/750
   f5-unit-point/750
-  f7-advanced-research-rune/2
+  f7-advanced-research-rune/5
 ]
