@@ -1,7 +1,7 @@
 sector: 28
 planet: anarchy-region
 captureWave: 13
-difficulty: 5
+difficulty: 4
 research: {
   parent: platforms
   objectives: [
